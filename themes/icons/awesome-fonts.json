@@ -131,8 +131,11 @@
 		"transition": { "prefix": "" }
 	},
 	"docker_ps": {
-		"prefix": ""
+		"prefix": ""
 	},
+    "vm": {
+        "prefix": "VM: "
+    },
     "sensors": {
         "prefix": ""
     },
